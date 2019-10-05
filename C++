@@ -10,3 +10,9 @@ cout<<"HELLO USER";
 
 
 }
+Lets now write it in Python.
+The libraries used are different.
+Prinnt Function:
+print("HELLO USER")
+
+
