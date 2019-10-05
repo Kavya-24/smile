@@ -1,0 +1,12 @@
+Let me just write a basic C++ program for you.
+Copy the synatax. Don't forget to access tthe standard Library Code :)
+#include <iostream>
+#include <cmath>
+using namespace std;
+int main(){
+
+
+cout<<"HELLO USER";
+
+
+}
